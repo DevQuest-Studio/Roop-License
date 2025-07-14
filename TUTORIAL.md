@@ -47,8 +47,8 @@ Inside `Modules > Settings`:
 ```lua
 return {
   config.OutputEnable = true
-config.UpdateNotify = true
-config.ConsentRequired = true
-config.DebugMode = false
-config.UITheme = "Legacy" -- ====== IT STILL IN DEV AND IT NOT AVAILABLE DON'T CHANGE ======
+  config.UpdateNotify = true
+  config.ConsentRequired = true
+  config.DebugMode = false
+  config.UITheme = "Legacy" -- ====== IT STILL IN DEV AND IT NOT AVAILABLE DON'T CHANGE ======
 }
