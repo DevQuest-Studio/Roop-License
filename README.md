@@ -48,7 +48,7 @@ By using Roop Services, you agree to the terms outlined in the [LICENSE.md](http
 ## 📚 Resources
 
 - [Full License](https://github.com/DevQuest-Studio/Roop-Services/blob/main/LICENSE.md)  
-- [Starter Tutorial](docs/Tutorial.md) *(Coming soon)*  
+- [Starter Tutorial](/blob/main/TUTORIAL.md)  
 - [DevQuest Studio GitHub](https://github.com/DevQuest-Studio)  
 
 ---
