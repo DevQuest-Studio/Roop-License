@@ -52,3 +52,55 @@ return {
   config.DebugMode = false
   config.UITheme = "Legacy" -- ====== IT STILL IN DEV AND IT NOT AVAILABLE DON'T CHANGE ======
 }
+```
+All options have inline comments. Customize to match your game needs:
+• 	Use `ConsentRequired` to show onboarding UI
+• 	Enable `DebugMode` to log session stats (if supported)
+• 	Change `UITheme` to choose the style you like
+
+---
+
+🚀 Step 4: Understanding Remote Module Access
+Roop’s system loads its internal logic from a protected MainModule on Roblox servers. You never modify this directly.
+The `LoaderModule` uses:
+
+```luau
+return require(107376145207853)
+```
+So when your game runs:
+• 	It connects to Roop’s remote code
+• 	Loads services like `GroupManager`, `Analytics`, `MarkeplaceService`
+• 	Keeps your local model small and safe
+✅ This design ensures updates to core Roop logic happen automatically, without needing to re-insert models.
+
+---
+
+🧠 Step 5: Using Roop in Scripts
+Once loaded, you can get the main Roop interface via:
+```luau
+local Roop = require(game.ServerScriptService:WaitForChild("MoreServices"))
+
+-- Call services:
+Roop:GetService("GroupManager"):AssignGroup(player, GroupID)
+Roop:GetSetting("Analytics").Enabled
+Roop:GetService("MarketplaceService"):PromptPurchase(Player, RoopAssetID)
+```
+Available functions may change as Roop evolves, so refer to the latest documentation.
+
+---
+
+🛡️ License & Restrictions
+Use Roop responsibly. You may:
+• 	Use it in your own game
+• 	Customize the `Settings` and services
+You may not:
+• 	Re-upload Roop under your own name
+• 	Modify the Loader to bypass licensing
+• 	Access or clone the internal `MainModule`
+Read the full Roop License for details.
+
+---
+
+🙋 Need Help?
+For support or feedback:
+• 	GitHub Issues: [DevQuest-Studio/Roop-Services](https://github.com/DevQuest-Studio/Roop-Services)
