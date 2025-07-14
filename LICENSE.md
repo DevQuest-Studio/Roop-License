@@ -5,32 +5,32 @@
 ---
 
 ## 📑 Table of Contents  
-- 1. [Definitions](#definitions) .................................................... 1  
-- 2. [Grant of License](#grant-of-license) ........................................... 2  
-- 3. [Installation & Activation](#installation--activation) ........................... 3  
-- 4. [Scope of Use](#scope-of-use) ................................................... 4  
-- 5. [Annex A: Roop Model License](#annex-a-roop-model-license) ...................... 5  
-- 6. [Annex B: Roop Services License](#annex-b-roop-services-license) ................ 6  
-- 7. [Permitted Use](#permitted-use) ................................................. 7  
-- 8. [Prohibited Use](#prohibited-use) ............................................... 8  
-- 9. [Distribution & Sub-Licensing](#distribution--sub-licensing) .................... 9  
-- 10. [Storage & Integration Guidelines](#storage--integration-guidelines) ............ 10  
-- 11. [Data Privacy & Security](#data-privacy--security) ............................. 11  
-- 12. [Attribution & Branding](#attribution--branding) ............................... 12  
-- 13. [Audit, Monitoring & Compliance](#audit-monitoring--compliance) ................ 13  
-- 14. [Support & Maintenance](#support--maintenance) ................................. 14  
-- 15. [Fees & Commercial Licensing](#fees--commercial-licensing) ..................... 15  
-- 16. [Intellectual Property Rights](#intellectual-property-rights) .................. 16  
-- 17. [Disclaimers & Limitation of Liability](#disclaimers--limitation-of-liability) .. 17  
-- 18. [Indemnification](#indemnification) ........................................... 18  
-- 19. [Termination & Suspension](#termination--suspension) .......................... 19  
-- 20. [Modifications & Updates](#modifications--updates) ............................. 20  
-- 21. [Governing Law & Dispute Resolution](#governing-law--dispute-resolution) ...... 21  
-- 22. [No Waiver](#no-waiver) ........................................................ 22  
-- 23. [Severability](#severability) ................................................. 23  
-- 24. [Assignment](#assignment) .................................................... 24  
-- 25. [Entire Agreement](#entire-agreement) .......................................... 25  
-- 26. [Revision History](#revision-history) .......................................... 26  
+  1. [Definitions](#1-definitions) 
+  2. [Grant of License](#2-grant-of-license)
+  3. [Installation & Activation](#installation--activation) 
+  4. [Scope of Use](#scope-of-use)
+  5. [Annex A: Roop Model License](#annex-a-roop-model-license)
+  6. [Annex B: Roop Services License](#annex-b-roop-services-license)
+  7. [Permitted Use](#permitted-use)
+  8. [Prohibited Use](#prohibited-use)
+  9. [Distribution & Sub-Licensing](#distribution--sub-licensing)
+  10. [Storage & Integration Guidelines](#storage--integration-guidelines)
+  11. [Data Privacy & Security](#data-privacy--security)
+  12. [Attribution & Branding](#attribution--branding)
+  13. [Audit, Monitoring & Compliance](#audit-monitoring--compliance)
+  14. [Support & Maintenance](#support--maintenance)
+  15. [Fees & Commercial Licensing](#fees--commercial-licensing)
+  16. [Intellectual Property Rights](#intellectual-property-rights)
+  17. [Disclaimers & Limitation of Liability](#disclaimers--limitation-of-liability)
+  18. [Indemnification](#indemnification) 
+  19. [Termination & Suspension](#termination--suspension)
+  20. [Modifications & Updates](#modifications--updates)
+  21. [Governing Law & Dispute Resolution](#governing-law--dispute-resolution) 
+  22. [No Waiver](#no-waiver)
+  23. [Severability](#severability) 
+  24. [Assignment](#assignment) 
+  25. [Entire Agreement](#entire-agreement)
+  26. [Revision History](#revision-history)
 
 ---
 
