@@ -7,30 +7,30 @@
 ## 📑 Table of Contents  
   1. [Definitions](#1-definitions) 
   2. [Grant of License](#2-grant-of-license)
-  3. [Installation & Activation](#installation--activation) 
-  4. [Scope of Use](#scope-of-use)
-  5. [Annex A: Roop Model License](#annex-a-roop-model-license)
-  6. [Annex B: Roop Services License](#annex-b-roop-services-license)
-  7. [Permitted Use](#permitted-use)
-  8. [Prohibited Use](#prohibited-use)
-  9. [Distribution & Sub-Licensing](#distribution--sub-licensing)
-  10. [Storage & Integration Guidelines](#storage--integration-guidelines)
-  11. [Data Privacy & Security](#data-privacy--security)
-  12. [Attribution & Branding](#attribution--branding)
-  13. [Audit, Monitoring & Compliance](#audit-monitoring--compliance)
-  14. [Support & Maintenance](#support--maintenance)
-  15. [Fees & Commercial Licensing](#fees--commercial-licensing)
-  16. [Intellectual Property Rights](#intellectual-property-rights)
-  17. [Disclaimers & Limitation of Liability](#disclaimers--limitation-of-liability)
-  18. [Indemnification](#indemnification) 
-  19. [Termination & Suspension](#termination--suspension)
-  20. [Modifications & Updates](#modifications--updates)
-  21. [Governing Law & Dispute Resolution](#governing-law--dispute-resolution) 
-  22. [No Waiver](#no-waiver)
-  23. [Severability](#severability) 
-  24. [Assignment](#assignment) 
-  25. [Entire Agreement](#entire-agreement)
-  26. [Revision History](#revision-history)
+  3. [Installation & Activation](#3-installation--activation) 
+  4. [Scope of Use](#4-scope-of-use)
+  5. [Annex A: Roop Model License](#5-annex-a-roop-model-license)
+  6. [Annex B: Roop Services License](#6-annex-b-roop-services-license)
+  7. [Permitted Use](#7-permitted-use)
+  8. [Prohibited Use](#8-prohibited-use)
+  9. [Distribution & Sub-Licensing](#9-distribution--sub-licensing)
+  10. [Storage & Integration Guidelines](#10-storage--integration-guidelines)
+  11. [Data Privacy & Security](#11-data-privacy--security)
+  12. [Attribution & Branding](#12-attribution--branding)
+  13. [Audit, Monitoring & Compliance](#13-audit-monitoring--compliance)
+  14. [Support & Maintenance](#14-support--maintenance)
+  15. [Fees & Commercial Licensing](#15-fees--commercial-licensing)
+  16. [Intellectual Property Rights](#16-intellectual-property-rights)
+  17. [Disclaimers & Limitation of Liability](#17-disclaimers--limitation-of-liability)
+  18. [Indemnification](#18-indemnification) 
+  19. [Termination & Suspension](#19-termination--suspension)
+  20. [Modifications & Updates](#20-modifications--updates)
+  21. [Governing Law & Dispute Resolution](#21-governing-law--dispute-resolution) 
+  22. [No Waiver](#22-no-waiver)
+  23. [Severability](#23-severability) 
+  24. [Assignment](#24-assignment) 
+  25. [Entire Agreement](#25-entire-agreement)
+  26. [Revision History](#26-revision-history)
 
 ---
 
@@ -260,7 +260,8 @@ This Annex governs Roop Services’ scripts, modules, UI elements, `RemoteEvents
 ## 15. Fees & Commercial Licensing  
 - Non-commercial, personal, educational use is free.  
 - Commercial, enterprise, or monetized use requires a paid license and fee schedule.  
-- All commercial terms must be agreed in writing before distribution.  
+- All commercial terms must be agreed in writing before distribution.
+- Roop can also be used for free on roblox without a license  
 
 ---
 
