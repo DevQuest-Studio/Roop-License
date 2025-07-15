@@ -60,7 +60,7 @@ All options have inline comments. Customize to match your game needs:
 
 ---
 
-🚀 Step 4: Understanding Remote Module Access
+## 🚀 Step 4: Understanding Remote Module Access
 Roop’s system loads its internal logic from a protected MainModule on Roblox servers. You never modify this directly.
 The `LoaderModule` uses:
 
@@ -75,7 +75,7 @@ So when your game runs:
 
 ---
 
-🧠 Step 5: Using Roop in Scripts
+## 🧠 Step 5: Using Roop in Scripts
 Once loaded, you can get the main Roop interface via:
 ```luau
 local Roop = require(game.ServerScriptService:WaitForChild("MoreServices"))
@@ -89,7 +89,7 @@ Available functions may change as Roop evolves, so refer to the latest documenta
 
 ---
 
-🛡️ License & Restrictions
+## 🛡️ License & Restrictions
 Use Roop responsibly. You may:
 • 	Use it in your own game
 • 	Customize the `Settings` and services
@@ -101,6 +101,6 @@ Read the full Roop License for details.
 
 ---
 
-🙋 Need Help?
+## 🙋 Need Help?
 For support or feedback:
 • 	GitHub Issues: [DevQuest-Studio/Roop-Services](https://github.com/DevQuest-Studio/Roop-Services)
